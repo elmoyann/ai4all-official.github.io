@@ -1,7 +1,7 @@
 # (UPDATE IN README.md) Fake or Nah
 
 (UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
+The purpose of our project was to create an accurate and efficient fake news detector using Natural Language Processing (NLP). After testing different identfiers that differentiate fake news from true news, we chose a linear regression model to train with our data. We used a dataset called fake-and-real-news-dataset found on Kaggle for this project. 
 
 *EXAMPLE:*
 *Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
