@@ -1,19 +1,11 @@
 # (UPDATE IN README.md) Fake or Nah
 
-(UPDATE IN README.md)
-The purpose of our project was to create an accurate and efficient fake news detector using Natural Language Processing (NLP). After testing different identfiers that differentiate fake news from true news, we chose a linear regression model to train with our data. We used a dataset called fake-and-real-news-dataset found on Kaggle for this project. 
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+The purpose of our project was to create an accurate and efficient fake news detector using Natural Language Processing (NLP). After testing different identfiers that differentiate fake news from true news, we chose a linear regression model to train with our data. We used a dataset called fake-and-real-news-dataset found on Kaggle for this project. We employed advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.
 
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
-
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
+Fake news has been a great problem, whether its purpose is to spread propaganda, misinformation or for another malicious intent. Our goal was to create a project that allows people to check the verity of their articles before believing their information.
 
 ## Key Results <!--- do not change this line -->
 
