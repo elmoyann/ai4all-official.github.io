@@ -27,11 +27,13 @@ Our experiments compared classical models (including logistic regression, SVM, a
 * true.csv
 
 ## Technologies Used <!--- do not change this line -->
-
+### Languages & Tools
 - *Python*
 - *Jupyter Notebooks*
 - *pandas*
 - *Gemini 3.0*
+
+### Libraries
 - *pandas*
 - *numpy*
 - *matplotlib*
